@@ -1,4 +1,17 @@
 What happens when you initialize a repository? Why do you need 
 to do it?
 
-It creates a git repository in the specified directory. So we can add commit in to Git.
+It creates a git repository in the specified directory. So we 
+can add commit in to Git.
+
+How is the staging area different from the working directory 
+and the repository? What value do you think it offers?
+
+The staging are is where you want to put files that you want 
+to commit while the directory is just a directory you can 
+things that you might not want to commit and the repository is 
+where the commits get put to when you run git commit.Like a 
+said you might put something in the working directory that you 
+might otherwise not want to commit and the whole logical 
+change thing is already explain in the whole lesson.
+aaaaaaaaafsadsadsadsadsa

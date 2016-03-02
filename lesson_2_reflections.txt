@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need 
+to do it?
+
+It creates a git repository in the specified directory. So we can add commit in to Git.
